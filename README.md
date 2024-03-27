@@ -4,7 +4,7 @@
 
 [Professional Statement](https://docs.google.com/document/d/10SYrKW6Er7X8bFiBg3YNJRfw8_Hti6sQ/edit?usp=drive_link&ouid=116971492969231128629&rtpof=true&sd=true)
 
-## CV
+## 👨🏾‍💼CV
 [Curriculum vitae](https://drive.google.com/file/d/1FNGeSI6XN6NBnKYpMBGoTPTn9X1j8dX4/view?usp=drive_link)
 
 ## 📄 Certfications

@@ -12,6 +12,8 @@
 ## 📄 Certfications
 
 [ISC2 Certified in Cybersecurity](https://drive.google.com/file/d/1lzwWbBx6gEe1Qlzyyxu7I3fsNy4iis2J/view?usp=drive_link)
+[Foundations of Cybersecurity](https://coursera.org/share/2d0ad4405756e94e61ad37fef8f43ee2)
+[Play it safe: Manage Security Risks](https://coursera.org/share/064a8eb4aa56ac30881e82d8b0889254)
 
 ## 🤳 Connect with me:
 

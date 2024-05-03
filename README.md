@@ -15,7 +15,7 @@
 
 [Foundations of Cybersecurity (Google)](https://coursera.org/share/2d0ad4405756e94e61ad37fef8f43ee2)
 
-[Play it safe: Manage Security Risks (Google)](https://coursera.org/share/064a8eb4aa56ac30881e82d8b0889254)
+[Play It Safe: Manage Security Risks (Google)](https://coursera.org/share/064a8eb4aa56ac30881e82d8b0889254)
 
 ## 🤳 Connect with me:
 
